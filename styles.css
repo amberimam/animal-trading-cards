@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+body {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddd;
+    box-shadow: 10px 10px 0px #eee;
+    padding: 15px;
+    width: 300px;
+
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.animal-pic {
+    width: 300px;
+}
+
+.animal-info {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddd;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.animal-facts {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
